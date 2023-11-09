@@ -2845,6 +2845,15 @@ input, select, textarea {
 		display: flex;
 	}
 
+	.current-skills > i {
+		font-size: 50px;
+	}
+
+	.current-skills > img {
+		height: 50px;
+		width: 50px;
+	}
+
 	.current-skills > * {
 		margin-right: 2%;
 	}
